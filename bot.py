@@ -2,7 +2,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TELEGRAM_TOKEN = '8780014826:aahbfdxonw9pf5ry3qhnszzbgd3rkapujfw'
+TELEGRAM_TOKEN = 'вам нельзя это видеть'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
